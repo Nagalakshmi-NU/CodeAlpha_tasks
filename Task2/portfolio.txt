@@ -1,0 +1,5 @@
+Portfolio Summary:
+AAPL - Quantity: 2, Value: $360
+MSFT - Quantity: 2, Value: $660
+
+Total Investment Value: $1020
